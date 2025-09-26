@@ -1,4 +1,5 @@
 🧮 Mini Calculator Project
+
 📌 Description
 
 - A simple calculator built in Python.
