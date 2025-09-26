@@ -1,4 +1,12 @@
-# math_core.py
+"""
+====================================================
+ Mini Calculator Project - math_core.py
+----------------------------------------------------
+ Purpose: 
+   - Contains all core math functions (add, subtract, multiply, divide, sqrt, power).
+   - Designed to be reusable for different UIs.
+==================================
+"""
 import math
 
 def calculate(a, b, op):

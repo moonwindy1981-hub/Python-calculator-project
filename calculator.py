@@ -1,3 +1,13 @@
+"""
+====================================================
+ Mini Calculator Project - calculator.py
+----------------------------------------------------
+ Purpose:
+   - Provides the User Interface using Gradio.
+   - Connects UI buttons to functions in math_core.py.
+====================================================
+"""
+
 import gradio as gr
 from math_core import calculate
 
