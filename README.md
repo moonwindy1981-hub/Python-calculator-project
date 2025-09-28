@@ -1,6 +1,6 @@
 🧮 Mini Calculator Project
 
-📌 Description
+Description
 
 - A simple calculator built in Python.
 
@@ -10,7 +10,7 @@
 
 - A Jupyter notebook (Simple_Calculator.ipynb) was used for testing and prototyping
 
-🚀 Features
+Features
 
 - Basic operations: addition, subtraction, multiplication, division
 
